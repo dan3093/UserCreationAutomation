@@ -47,10 +47,14 @@ These scripts will scan for new user request emails > open these emails and pars
 
 
 Required Packages:
+
 	Python:
+	
 		imap_tools - https://pypi.org/project/imap-tools/#basic
+		
 		passwordgenerator - https://github.com/gabfl/password-generator-py/
 
 	Powershell:
+	
 		Active Directory Module-  ActiveDirectory Module | Microsoft Docs
 
