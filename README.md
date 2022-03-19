@@ -50,7 +50,7 @@ Required Packages:
 
 	Python:
 	
-		imap_tools - https://pypi.org/project/imap-tools/#basic
+		imap_tools - https://pypi.org/project/imap-tools/
 		
 		passwordgenerator - https://github.com/gabfl/password-generator-py/
 
